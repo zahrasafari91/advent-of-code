@@ -1,4 +1,5 @@
-# Advent of Code Solutions
+# advent-of-code
+Calendar of Small Programming Puzzles
 
 This repository contains my solutions to the [Advent of Code](https://adventofcode.com/) programming challenges.
 
